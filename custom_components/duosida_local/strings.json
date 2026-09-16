@@ -1,0 +1,12 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Duosida Local",
+        "data": { "host": "Wallbox IP address" }
+      }
+    },
+    "error": { "cannot_connect": "Cannot connect to the wallbox" },
+    "abort": { "already_configured": "Device is already configured" }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "duosida_local",
+  "name": "Duosida Local",
+  "codeowners": ["@akagavinci"],
+  "config_flow": true,
+  "documentation": "https://github.com/akagavinci/duosida-local-ha",
+  "integration_type": "device",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/akagavinci/duosida-local-ha/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}
